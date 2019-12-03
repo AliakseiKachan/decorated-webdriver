@@ -18,8 +18,8 @@
 package ru.stqa.selenium.decorated;
 
 import org.openqa.selenium.*;
-import org.openqa.selenium.interactions.internal.Coordinates;
-import org.openqa.selenium.interactions.internal.Locatable;
+import org.openqa.selenium.interactions.Coordinates;
+import org.openqa.selenium.interactions.Locatable;
 import org.openqa.selenium.internal.WrapsElement;
 
 import java.util.List;

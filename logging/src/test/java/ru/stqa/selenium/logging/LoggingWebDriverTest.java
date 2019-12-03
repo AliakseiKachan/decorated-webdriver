@@ -19,9 +19,9 @@ package ru.stqa.selenium.logging;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.WebDriver;
-import uk.org.lidalia.slf4jtest.LoggingEvent;
-import uk.org.lidalia.slf4jtest.TestLogger;
-import uk.org.lidalia.slf4jtest.TestLoggerFactory;
+import com.github.valfirst.slf4jtest.LoggingEvent;
+import com.github.valfirst.slf4jtest.TestLogger;
+import com.github.valfirst.slf4jtest.TestLoggerFactory;
 
 import java.util.List;
 

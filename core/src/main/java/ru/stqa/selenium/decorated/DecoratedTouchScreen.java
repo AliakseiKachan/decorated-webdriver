@@ -18,7 +18,7 @@
 package ru.stqa.selenium.decorated;
 
 import org.openqa.selenium.interactions.TouchScreen;
-import org.openqa.selenium.interactions.internal.Coordinates;
+import org.openqa.selenium.interactions.Coordinates;
 
 public class DecoratedTouchScreen extends DecoratedChild<TouchScreen,DecoratedWebDriver> implements TouchScreen {
 

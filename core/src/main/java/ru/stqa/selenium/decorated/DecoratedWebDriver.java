@@ -19,7 +19,7 @@ package ru.stqa.selenium.decorated;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.interactions.*;
-import org.openqa.selenium.interactions.internal.Coordinates;
+import org.openqa.selenium.interactions.Coordinates;
 import org.openqa.selenium.internal.WrapsDriver;
 
 import java.util.Collection;
